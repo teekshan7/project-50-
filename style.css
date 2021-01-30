@@ -1,0 +1,16 @@
+
+.grid{
+    display:flex;
+    justify-content:flex-end;
+}
+.brid img{
+    border: 2px solid black;
+    border-radius:50xp
+}
+.origami{
+    border-radius:  20px;
+    background-color: white;
+
+    width: 310px;
+    font-family: fantasy;
+}
